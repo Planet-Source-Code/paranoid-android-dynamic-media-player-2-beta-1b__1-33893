@@ -1,0 +1,5 @@
+DMP2 BETA 1b
+
+Rename the file Gradbutton.RENAMEMETOOCX to Gradbutton.OCX.  And then Register the Gradbutton files in the System folder.
+
+Paranoid Android
